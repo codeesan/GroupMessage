@@ -44,7 +44,7 @@ maxTime = 60 * 10
 **minTime** - minimum time in seconds between messages. Note that there will be 3 seconds between messages because of limit set by twilio. and the * 60 thing is so that you can figure out minutes... see what I did there?  
 **maxTime** - same as above but like different.  
 
-**note** - Use as you wish. No warrenty or responsibility for anything. I just thought this was funny more so than anything. Try not to make anyone too angry.
+**note** - Use as you wish. No warranty or responsibility for anything. I just thought this was funny more so than anything. Try not to make anyone too angry.
 
 I can't spell... and I don't care.  
 
