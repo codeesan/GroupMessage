@@ -4,7 +4,7 @@ I hate group messages. So I wrote a quick Twilio powered app to torture my famil
 ##Get a twilio account [here](https://www.twilio.com)
 https://www.twilio.com/
 
-You'll need to charge up some time. I put up $20 and that was more than enough to play with until I was board. 
+You'll need to charge up some time. I put up $20 and that was more than enough to play with until I was bored. 
 
 ##Required Stuffs
 sudo apt-get install python3  
